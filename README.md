@@ -50,15 +50,9 @@ This project is an **automated email generation system** that scrapes job postin
 2. Install required packages:  
    ```bash  
    pip install -r requirements.txt  
-   ```  
+   ```   
 
-3. Set up environment variables:  
-   ```bash  
-   cp .env.example .env  
-   ```  
-   - Add your **GROQ_API_KEY** to the `.env` file.  
-
-4. Run the application:  
+3. Run the application:  
    ```bash  
    streamlit run app.py  
    ```  
