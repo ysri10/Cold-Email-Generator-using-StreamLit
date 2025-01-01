@@ -1,4 +1,4 @@
-### Email Generator for Job Postings  
+# Email Generator for Job Postings  
 
 ## Overview  
 This project is an **automated email generation system** that scrapes job postings from URLs, extracts relevant job descriptions, and generates personalized emails. The application utilizes **Streamlit** for the frontend interface and **LangChain** for language processing. The email generation is powered by **LLaMA 3.1-70B** through **GroqCloud** to provide dynamic, context-aware email content.  
